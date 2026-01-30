@@ -46,7 +46,8 @@ This repository includes all files required to reproduce the analysis:
    from google.colab import drive
    drive.mount('/content/drive')
 
-##5.Repository Structure
+## 5.Repository Structure
+
 GEOG5990M-Final-Assignment/
 │
 ├── data/
@@ -56,8 +57,11 @@ GEOG5990M-Final-Assignment/
 ├── analysis.ipynb
 └── README.md
 
-##7. Reproducibility
+## 6.Reproducibility
+
 Running the notebook from start to finish will reproduce all data processing, analysis, modelling, and visualisations presented in the final report.
-##8. References
+
+## 7.Reference
+
 Brewer (1999); Few (2012); Longley et al. (2015); ONS (2021); Slocum et al. (2009).
 
